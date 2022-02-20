@@ -1,0 +1,9 @@
+migrations
+db.sqlite3
+node_modules
+.env.development
+Pipfile
+Pipfile.lock
+package-lock.json
+package.json
+text.txt
